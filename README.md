@@ -4,7 +4,7 @@ This jQuery plugin allows you to convert color codes from hex to rbg, or from rg
 
 # How to use
 
-This plugin requires jQuery 1.8+ :
+This plugin requires [jQuery 1.8+](http://jquery.com/) :
 ```html
 <script type="text/javascript" src="http://code.jquery.com/jquery-1.10.1.min.js"></script>
 <script type="text/javascript" src="path/to/jquery.color.js"></script>
